@@ -1,0 +1,52 @@
+{
+  "movies": [
+    {
+      "description": "Childhood memories",
+      "id": 9
+    },
+    {
+      "description": "love teruks okay :)",
+      "id": 10
+    },
+    {
+      "description": "kids love it",
+      "like": true,
+      "Title": "Pocoyo in cinemas: Your First Movie",
+      "Plot": "The world is in danger and only Pocoyo and the Super Friends can save us! Nina, Pato and Elly will have to work as a team and overcome their fears to defeat a villain who threatens the peace of the Pocoyo World. Will they get out ...",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTUyYzVkZjYtYmM5MC00MTIwLWFmYmMtZDQ0MDdjY2IyZWZlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg",
+      "imdbID": "tt10499426",
+      "id": 11
+    },
+    {
+      "description": "love ",
+      "like": true,
+      "Title": "The Batman",
+      "Plot": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_SX300.jpg",
+      "imdbID": "tt1877830",
+      "id": 13
+    },
+    {
+      "description": "Childhoos fav",
+      "like": true,
+      "Title": "Mighty Morphin Power Rangers",
+      "Plot": "A giant egg is unearthed at a construction site and soon opened, releasing the terrible Ivan Ooze, who wreaks vengeance on Zordon for imprisoning him millennia ago. With Zordon dying and their powers lost, the Rangers head to a di...",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2I2Y2I5N2MtMzJhMy00NzE2LThlMzEtNGE0ODA4M2JhOWNiXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg",
+      "imdbID": "tt0113820",
+      "id": 14
+    },
+    {
+      "description": "I watched it with my family",
+      "like": true,
+      "Title": "Ms. Marvel",
+      "Plot": "Kamala is a superhero fan with an imagination, particularly when it comes to Captain Marvel; Kamala feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she's looke...",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ3OTZkNDUtNTU0Mi00ZjE4LTgyNTUtY2E4NWRmNDUxMzkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+      "imdbID": "tt10857164",
+      "id": 15
+    },
+    {
+      "description": "i never watch this one yet hmm",
+      "id": 16
+    }
+  ]
+}
